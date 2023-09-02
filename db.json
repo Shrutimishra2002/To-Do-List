@@ -1,0 +1,22 @@
+{
+  "cruddata": [
+    {
+      "id": 1,
+      "title": "Codeforce",
+      "detail": "Do 5 ques",
+      "date": "23 aug"
+    },
+    {
+      "id": 2,
+      "title": "Leetcode",
+      "detail": "Do 8 ques",
+      "date": "13 aug"
+    },
+    {
+      "id": 3,
+      "title": "Geeks For Geeks",
+      "detail": "Do dp ques",
+      "date": "24 aug"
+    }
+  ]
+}
